@@ -1,4 +1,4 @@
-# Solar Customer Lookup & Analytics Dashboard (Excel)
+# Solar Company Data Analysis Project (Excel)
 
 ## 📌 Overview
 This project is an Excel-based solar company analytics dashboard designed to manage customer installation records, retrieve customer information quickly, and generate business insights from solar installation data.
